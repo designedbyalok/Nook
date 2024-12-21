@@ -2,7 +2,7 @@
 
 Welcome to the Peer-to-Peer Book Sharing Platform project! This initiative is designed to create a community-driven platform where users can easily share books within their local neighborhoods. The platform combines intuitive user experience design with robust functionality, empowering readers to connect and exchange knowledge in meaningful ways.
 
-Introduction
+<h2>Introduction</h2>
 
 This platform is built to facilitate:
 
@@ -14,7 +14,7 @@ Community Building: Foster a sense of community by connecting book lovers in clo
 
 Environmental Impact: Reduce waste by sharing books rather than buying new ones.
 
-Features
+<h2>Features</h2>
 
 User Profiles: Create and manage personal profiles.
 
